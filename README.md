@@ -55,7 +55,7 @@ As capturas de tela mostram a execução dos exercícios e as principais operaç
 
 **Pedidos pendentes**
 
-![Pedidos pendentes](imagens/exercicio1-pendentes.png.png)
+![Pedidos pendentes](./imagens/exercicio1-pendentes.png.png)
 
 ### Exercício 2 — Playlist de músicas
 
